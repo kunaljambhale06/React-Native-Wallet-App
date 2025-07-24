@@ -41,6 +41,7 @@ NODE_ENV=development
 CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
 CLERK_SECRET_KEY=<your_clerk_secret_key>
 DATABASE_URL=<your_neon_postgres_connection_url>
+\\\
 ⚙️ Run the Backend
 Make sure you are in the backend folder, then install dependencies and start the server:
 
