@@ -42,7 +42,7 @@ CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
 CLERK_SECRET_KEY=<your_clerk_secret_key>
 DATABASE_URL=<your_neon_postgres_connection_url>
 ```
-##⚙️ Run the Backend
+## ⚙️ Run the Backend
 Make sure you are in the backend folder, then install dependencies and start the server:
 
 ```bash
@@ -52,7 +52,7 @@ npm run dev
 ```
 ℹ️ The backend will run on http://localhost:5001 (or whichever port you set in .env).
 
-##📱 Run the Mobile App
+## 📱 Run the Mobile App
 Navigate to the mobile folder, install dependencies, and start the Expo development server:
 
 ```bash
@@ -60,8 +60,8 @@ cd mobile
 npm install
 npx expo start
 📲 Scan the QR code using the Expo Go app on your phone to run it on a physical device, or launch a simulator if you're on macOS or using Android Studio.
-
-##🔄 API & Mobile Integration
+```
+## 🔄 API & Mobile Integration
 Ensure that your mobile app points to the correct backend API URL. If you're using fetch or axios, update the base URL to match your local IP (for example, http://192.168.1.5:5001) instead of localhost, especially when testing on a physical device.
 
 You can usually find your IP with:
