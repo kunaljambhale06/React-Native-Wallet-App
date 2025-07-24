@@ -37,3 +37,17 @@ NODE_ENV=development
 CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
 CLERK_SECRET_KEY=<your_clerk_secret_key>
 DATABASE_URL=<your_neon_postgres_connection_url>
+
+## ⚙️ Backend Setup
+
+### Environment Variables
+
+In the `/backend` folder, create an `.env` file with the following variables:
+
+```bash
+PORT=5001
+NODE_ENV=development
+CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
+CLERK_SECRET_KEY=<your_clerk_secret_key>
+DATABASE_URL=<your_neon_postgres_connection_url>
+
