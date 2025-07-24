@@ -24,7 +24,7 @@ This isn't just a front-end app — it's a complete mobile application with back
 - Implement authentication & email verification with **Clerk**
 - Build a full mobile app with **React Native & Expo**
 - Manage state and navigation using **React Navigation**
-- Understand and apply **Rate Limiting** using **Redis**
+- Understand and apply **Rate Limiting** using **Express Rate Limiter**
 - Deploy both backend & mobile with cloud-based tools
 
 ---
