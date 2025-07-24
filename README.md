@@ -59,8 +59,9 @@ Navigate to the mobile folder, install dependencies, and start the Expo developm
 cd mobile
 npm install
 npx expo start
-📲 Scan the QR code using the Expo Go app on your phone to run it on a physical device, or launch a simulator if you're on macOS or using Android Studio.
 ```
+📲 Scan the QR code using the Expo Go app on your phone to run it on a physical device, or launch a simulator if you're on macOS or using Android Studio.
+
 ## 🔄 API & Mobile Integration
 Ensure that your mobile app points to the correct backend API URL. If you're using fetch or axios, update the base URL to match your local IP (for example, http://192.168.1.5:5001) instead of localhost, especially when testing on a physical device.
 
