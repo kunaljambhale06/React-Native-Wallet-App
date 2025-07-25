@@ -2,11 +2,6 @@
 
 This isn't just a front-end app — it's a complete mobile application with backend integration, authentication, and cloud-based storage.
 
-## ✅ Features
-
-- **Works on iOS & Android** (simulator or real device)
-- **Uses your existing React knowledge**
-- **No need for Swift, Kotlin, or native modules**
 
 ## 📱 App Features Overview
 
