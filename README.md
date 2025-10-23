@@ -1,4 +1,4 @@
-# 💸Wallet Application 🚀
+# Wallet Application 
 
 A full-stack expense tracking app built with **React Native (Expo)** on the frontend and **Express + PostgreSQL (Neon)** on the backend.  
 Authentication is handled via **Clerk**, with Redis used for rate limiting.
